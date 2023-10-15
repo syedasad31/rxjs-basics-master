@@ -13,3 +13,6 @@ RxJS Starter Project
 ---
 
 Members, please refer to the Setup Instructions inside the course to get started!
+
+npm start
+and then observe the console
